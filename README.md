@@ -16,7 +16,7 @@
 * **Perspective Analysis Tool:** Detects missing viewpoints or underrepresented angles in the content[cite: 27, 28].
 * **Explanation Generator Module:** Produces clear, human-readable explanations of identified biases and their impact[cite: 29, 30].
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Backend Framework:** Python / Flask
 * **Cross-Origin Resource Sharing:** Flask-CORS
 * **LLM Engine:** Groq API (`llama-3.1-8b-instant`)
